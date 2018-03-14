@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aula 3</string>
+    <string-array name="SpinnerCopa">
+        <item>Grupo 1</item>
+        <item>Grupo 2</item>
+        <item>Grupo 3</item>
+        <item>Grupo 4</item>
+        <item>Grupo 5</item>
+        <item>Grupo 6</item>
+        <item>Grupo 7</item>
+        <item>Grupo 8</item>
+    </string-array>
+</resources>
