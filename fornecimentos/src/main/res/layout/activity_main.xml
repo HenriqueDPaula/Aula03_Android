@@ -35,4 +35,9 @@
         android:layout_height="wrap_content"
         android:text="Salvar"/>
 
+    <ListView
+        android:id="@+id/lista"
+        android:layout_width="match_parent"
+        android:layout_height="height_parent"/>
+
 </LinearLayout>
